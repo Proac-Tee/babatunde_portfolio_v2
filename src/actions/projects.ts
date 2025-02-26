@@ -150,7 +150,7 @@ export const updateProject = async (
 };
 
 /**
- * ✅ Delete a project by ID
+ * Delete a project by ID
  * @param {Types.ObjectId} _id - Project ID
  * @returns {Object} - Success or error message
  */
